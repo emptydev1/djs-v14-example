@@ -1,0 +1,33 @@
+{
+  "name": "djs-v14-example",
+  "version": "1.0.0",
+  "description": "A simple example of how to create a bot for discord using the discord.js library (v14).",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptydev1/djs-v14-example.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordjs",
+    "client"
+  ],
+  "author": "emptydev1",
+  "license": "Apache-2.0",
+  "depedencies": {},
+  "bugs": {
+    "url": "https://github.com/emptydev1/djs-v14-example/issues"
+  },
+  "homepage": "https://github.com/emptydev1/djs-v14-example#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dynamicdb": "github:emptydev1/dynamicdb"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
